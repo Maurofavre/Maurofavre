@@ -2,7 +2,7 @@
 
 
 * 💻 Studying system analyst at the 21st century university college. 
-* 👀 My motivational phrase "KEEP MOVING FORWARD AND JUST DO IT"  
+* 👀 My motivational phrase "KEEP MOVING FORWARD"  
 * 🎬 I want to collaborate on new projects and keep growing as a professional.
 ---
 

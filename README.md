@@ -18,8 +18,8 @@
 
 ### > FIND ME ON 
 
-*<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
-* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> ➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
+* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
+* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> ➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
 
 
 ### > ME IN CODE

@@ -30,15 +30,3 @@ const mauroFavre= {
   tools: ["Mysql", "Sql","Bootstrap", "React"]
    },
  
-
- 
-``` 
-### > TERMINAL COMMANDS  
-| Comandos        | Compañia    | 
-|-------------------|-------------|
-|  ls |  lists the current directory contents |
-|    Cd | Change directory |
-|  pwd|  Print working directory |
-|     mkdir     | Create directory  |
-|    cp      | Copy files       |
-```

@@ -19,7 +19,7 @@
 ### > FIND ME ON 
 
 * <img align="left" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8aPhK_0IBx1IRr89ZDZjdfzX15_DaVgyA&s" bg="white"/>➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
-* <img align="left" width="30px" src="https://static.vecteezy.com/system/resources/previews/023/986/938/non_2x/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png"/>➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
+* <img align="left" width="30px" src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-instagram-coloreado-color-alta-resoluci%C3%B3n-con-fondo-blanco-archivo-pasos-vectoriales-disponible-para-175710005.jpg"/>➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
 
 
 ### > ME IN CODE

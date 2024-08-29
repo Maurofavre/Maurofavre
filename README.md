@@ -19,7 +19,7 @@
 ### > FIND ME ON 
 
 * <img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8aPhK_0IBx1IRr89ZDZjdfzX15_DaVgyA&s" bg="white"/>➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
-* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> ➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
+* <img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQA29UZof2pHMjPlnL2w_HTGEdm3YJ8Z1D3A&s"/> ➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
 
 
 ### > ME IN CODE

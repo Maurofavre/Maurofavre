@@ -25,9 +25,9 @@
 
 ### > ME IN CODE
 ```javascript
-const mauroFavre= {
-  pronouns: "He" | "His",
-  code: [".Net","C#","Java" , "Javascript"],
-  tools: ["Mysql", "Sql","Bootstrap", "React"]
-   },
+const mauroFavre = {
+  pronouns: "He/Him",
+  code: [".NET", "C#", "Java", "JavaScript"],
+  tools: ["MySQL", "SQL", "Bootstrap", "React"]
+};
  

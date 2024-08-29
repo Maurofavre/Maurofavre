@@ -18,7 +18,7 @@
 
 ### > FIND ME ON 
 
-* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" bg="white"/>➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
+* <img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8aPhK_0IBx1IRr89ZDZjdfzX15_DaVgyA&s" bg="white"/>➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> ➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
 
 

@@ -19,6 +19,7 @@
 ### > FIND ME ON 
 
 * <img align="left" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8aPhK_0IBx1IRr89ZDZjdfzX15_DaVgyA&s" bg="white"/>➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
+  
 * <img align="left" width="30px" src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-instagram-coloreado-color-alta-resoluci%C3%B3n-con-fondo-blanco-archivo-pasos-vectoriales-disponible-para-175710005.jpg"/>➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
 
 

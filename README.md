@@ -8,20 +8,25 @@
 
 ### > Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-C%23-0078D7?style=flat&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
 
 ---
 
 ### > FIND ME ON 
 
-* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ➡️[/Mauro Favre Bella - Frontend Developer](https://www.linkedin.com/in/mauro-favre-bella-frontend-developer-95110a230/)
+* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ➡️[/Mauro Favre Bella - Backend Developer](https://www.linkedin.com/in/maurofavre2/)
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> ➡️[/FavreMauro/](https://www.instagram.com/maurofavre/)
 
 
@@ -29,8 +34,8 @@
 ```javascript
 const mauroFavre= {
   pronouns: "He" | "His",
-  code: [HTML, CSS,Javascript],
-  tools: [React, Node, Styled-Components, Bootstrap, SASS]
+  code: [".Net","C#","Java" , "Javascript"],
+  tools: ["Mysql", "Sql","Bootstrap", "React"]
    },
  
 
